@@ -1,0 +1,22 @@
+{
+    "config": {
+        "vendor-dir": "lib",
+         "bin-dir": "bin"
+    },
+    "require": {
+        "gaiagroup/mdogo": "0.9.3"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:gaiagroup/mdogo.git"
+        },
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"":  ["src/", "lib/"] }
+    }
+}

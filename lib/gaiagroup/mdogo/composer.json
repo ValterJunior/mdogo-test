@@ -1,0 +1,17 @@
+{
+    "name": "gaiagroup/mdogo",
+    "type": "library",
+    "description": "Yet another microframework",
+    "keywords": ["microframework"],
+    "homepage": "https://github.com/gaiagroup/mdogo",
+    "license": "MIT",
+    "authors": [],
+    "bin": ["bin/cron", "bin/run"],
+    "require": {
+        "php": ">=5.3.10"
+    },
+    "autoload": {
+        "psr-0": { "Mdogo": "src/"},
+        "files": ["mdogo.php"]
+    }
+}

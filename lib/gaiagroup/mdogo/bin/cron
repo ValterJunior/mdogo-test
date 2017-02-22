@@ -1,0 +1,23 @@
+#!/usr/bin/php
+<?php call_user_func(function () use ($argv) {
+
+  $arguments = array_slice($argv, 1);
+  if (!($env = getenv('MDOGO_ENV'))) {
+    if (!($env = array_shift($arguments))) {
+      die("ERROR: environment missing\n");
+    }
+  }
+  define('MDOGO_ENV', $env);
+  require realpath(__DIR__ .'/../mdogo.php');
+
+  Mdogo::bootstrap();
+
+  foreach ((array) Mdogo::get('environment')->get('cron') as $entry) {
+    $topic = is_scheduled($entry, floor(MDOGO_TIME));
+    if (!empty($topic)) {
+      Mdogo::publish($topic);
+      Mdogo::get('logger')->log(date('r') .': '. $entry, 'cron');
+    }
+  }
+  exit("OK\n");
+})?>

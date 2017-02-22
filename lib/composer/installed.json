@@ -1,0 +1,48 @@
+[
+    {
+        "name": "gaiagroup/mdogo",
+        "version": "0.9.3",
+        "version_normalized": "0.9.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/gaiagroup/mdogo.git",
+            "reference": "fdaa4f6e61df90e943778d3c8bb8668b3a46e187"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/gaiagroup/mdogo/zipball/fdaa4f6e61df90e943778d3c8bb8668b3a46e187",
+            "reference": "fdaa4f6e61df90e943778d3c8bb8668b3a46e187",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.10"
+        },
+        "time": "2015-04-16T19:25:48+00:00",
+        "bin": [
+            "bin/cron",
+            "bin/run"
+        ],
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Mdogo": "src/"
+            },
+            "files": [
+                "mdogo.php"
+            ]
+        },
+        "license": [
+            "MIT"
+        ],
+        "description": "Yet another microframework",
+        "homepage": "https://github.com/gaiagroup/mdogo",
+        "keywords": [
+            "microframework"
+        ],
+        "support": {
+            "source": "https://github.com/gaiagroup/mdogo/tree/0.9.3",
+            "issues": "https://github.com/gaiagroup/mdogo/issues"
+        }
+    }
+]

@@ -1,0 +1,331 @@
+[10/Feb/2017:01:11:57 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d2589d135d4d9af>
+[10/Feb/2017:01:15:54 +0000] Exception:  (MDOGO_ROOT/lib/gaiagroup/mdogo/test/Mdogo/LoggerTest.php:89) <d41d8cd589d144a6347f>
+[10/Feb/2017:01:15:54 +0000] PDOException: could not find driver (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Database.php:374) <d41d8cd589d144a6347f>
+[10/Feb/2017:01:21:02 +0000] Exception:  (MDOGO_ROOT/lib/gaiagroup/mdogo/test/Mdogo/LoggerTest.php:89) <d41d8cd589d157e54e2b>
+[10/Feb/2017:01:21:02 +0000] PDOException: could not find driver (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Database.php:374) <d41d8cd589d157e54e2b>
+[10/Feb/2017:01:21:15 +0000] Exception:  (MDOGO_ROOT/lib/gaiagroup/mdogo/test/Mdogo/LoggerTest.php:89) <d41d8cd589d158bb89e4>
+[10/Feb/2017:01:21:15 +0000] PDOException: could not find driver (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Database.php:374) <d41d8cd589d158bb89e4>
+[10/Feb/2017:01:23:51 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d2589d16271e94b>
+[10/Feb/2017:02:12:23 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d2589d2187427b3>
+[10/Feb/2017:02:19:50 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:189) <e0e39d2589d23465c7a9>
+[10/Feb/2017:02:22:59 +0000] ErrorException: syntax error, unexpected 'as' (T_AS), expecting ';' (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:190) <e0e39d2589d240381e1a>
+[10/Feb/2017:02:23:25 +0000] ErrorException: Undefined index: line (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:191) <e0e39d2589d241da7cf5>
+[10/Feb/2017:02:23:25 +0000] ErrorException: Undefined index: line (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:191) <e0e39d2589d241da7cf5>
+[10/Feb/2017:02:25:59 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d2589d24b7b6e06>
+[10/Feb/2017:02:31:33 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d2589d26053d7f4>
+[11/Feb/2017:02:05:15 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <a3b34aa589e715b22d8f>
+[11/Feb/2017:02:05:39 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d2589e71732fc86>
+[11/Feb/2017:02:09:50 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d2589e726ed2cad>
+[11/Feb/2017:02:11:50 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d2589e72e649e9b>
+[11/Feb/2017:02:12:12 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d2589e72fc58e57>
+[14/Feb/2017:01:05:11 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <060ed1f58a257c76587d>
+[14/Feb/2017:01:06:22 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a2580e8476c>
+[14/Feb/2017:01:06:46 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25826642c9>
+[14/Feb/2017:01:07:04 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25838ed85a>
+[14/Feb/2017:01:07:16 +0000] ErrorException: Class 'Example_Controller_HTML2' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25844565d3>
+[14/Feb/2017:01:19:12 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25b10ac634>
+[14/Feb/2017:01:19:31 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25b238b5ec>
+[14/Feb/2017:01:20:06 +0000] ErrorException: Class 'src\Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25b46a19cb>
+[14/Feb/2017:01:20:23 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25b578cdc2>
+[14/Feb/2017:01:20:31 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25b5fc6312>
+[14/Feb/2017:01:23:36 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25c18c9342>
+[14/Feb/2017:01:23:38 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25c1a08f09>
+[14/Feb/2017:01:29:01 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25d5d351e7>
+[14/Feb/2017:01:30:24 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25db0e1529>
+[14/Feb/2017:01:32:09 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:189) <e0e39d258a25e199c2b2>
+[14/Feb/2017:01:34:26 +0000] ErrorException: syntax error, unexpected 'as' (T_AS) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:184) <e0e39d258a25ea29cc6b>
+[14/Feb/2017:01:34:32 +0000] ErrorException: syntax error, unexpected 'as' (T_AS) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:184) <e0e39d258a25ea8163c8>
+[14/Feb/2017:01:34:54 +0000] ErrorException: Invalid argument supplied for foreach() (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:184) <e0e39d258a25ebe69cc0>
+[14/Feb/2017:01:39:44 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a25fe04f820>
+[14/Feb/2017:02:00:06 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a264a621ed0>
+[14/Feb/2017:02:03:33 +0000] ErrorException: Class 'Mdogo\Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a265751ed0e>
+[14/Feb/2017:02:03:46 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a26582e589c>
+[14/Feb/2017:02:11:22 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a2674a189cd>
+[14/Feb/2017:02:11:30 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a26752f16db>
+[14/Feb/2017:02:11:37 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a267597b109>
+[14/Feb/2017:02:11:38 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a2675af24b3>
+[14/Feb/2017:02:11:51 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a267672fbc4>
+[14/Feb/2017:02:23:20 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <8b6beb958a26a1813e3c>
+[14/Feb/2017:02:23:39 +0000] ErrorException: Class 'Example_Controller_HTML' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <8b6beb958a26a2bd052a>
+[14/Feb/2017:02:23:55 +0000] MdogoNotFoundException:  (MDOGO_ROOT/src/example/Controller/HTML.php:58) <8b6beb958a26a3bca84c>
+[14/Feb/2017:02:24:10 +0000] MdogoNotFoundException:  (MDOGO_ROOT/src/example/Controller/HTML.php:58) <12aa7f558a26a4a3cc27>
+[14/Feb/2017:02:24:49 +0000] MdogoNotFoundException:  (MDOGO_ROOT/src/example/Controller/HTML.php:58) <2de2c4a58a26a71737c7>
+[14/Feb/2017:02:29:10 +0000] MdogoNotFoundException:  (MDOGO_ROOT/src/example/Controller/HTML.php:58) <1f16fdf58a26b769e2b5>
+[14/Feb/2017:02:30:21 +0000] MdogoNotFoundException:  (MDOGO_ROOT/src/example/Controller/HTML.php:58) <4c1dd1358a26bbd04b82>
+[15/Feb/2017:23:33:59 +0000] MdogoNotFoundException:  (MDOGO_ROOT/src/example/Controller/HTML.php:58) <8b6beb958a4e5677ba6a>
+[15/Feb/2017:23:48:10 +0000] PDOException: could not find driver (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Database.php:374) <2de2c4a58a4e8baa8adc>
+[15/Feb/2017:23:51:15 +0000] PDOException: could not find driver (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Database.php:374) <2de2c4a58a4e973c63f8>
+[15/Feb/2017:23:52:24 +0000] PDOException: could not find driver (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Database.php:374) <2de2c4a58a4e9b8d094d>
+[15/Feb/2017:23:52:28 +0000] PDOException: could not find driver (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Database.php:374) <2de2c4a58a4e9bc515c0>
+[17/Feb/2017:00:54:45 +0000] ErrorException: Class 'Blog_Dashboard' not found (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:188) <e0e39d258a649d5ae39a>
+[17/Feb/2017:00:55:23 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:82) <e0e39d258a649fb242a5>
+[17/Feb/2017:01:01:52 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <e0e39d258a64b8045bff>
+[17/Feb/2017:01:01:52 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <e0e39d258a64b8045bff>
+[17/Feb/2017:01:04:03 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <e0e39d258a64c031c1f1>
+[17/Feb/2017:01:04:03 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <e0e39d258a64c031c1f1>
+[17/Feb/2017:01:11:32 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <e0e39d258a64dc444200>
+[17/Feb/2017:01:11:32 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <e0e39d258a64dc444200>
+[20/Feb/2017:00:37:24 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <e0e39d258aa3a44c76fd>
+[20/Feb/2017:00:37:25 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <e0e39d258aa3a44c76fd>
+[20/Feb/2017:00:55:44 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <e0e39d258aa3e9001331>
+[20/Feb/2017:00:55:44 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <e0e39d258aa3e9001331>
+[21/Feb/2017:00:34:24 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <e0e39d258ab8b10565db>
+[21/Feb/2017:00:34:24 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <e0e39d258ab8b10565db>
+[21/Feb/2017:00:37:25 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab8bc55a333>
+[21/Feb/2017:00:37:25 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab8bc55a333>
+[21/Feb/2017:00:38:31 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab8c07531d8>
+[21/Feb/2017:00:38:31 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab8c07531d8>
+[21/Feb/2017:00:40:04 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab8c64748e5>
+[21/Feb/2017:00:40:04 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab8c64748e5>
+[21/Feb/2017:00:56:34 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab904282614>
+[21/Feb/2017:00:56:34 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(163) : eval()'d code:5) <51b710558ab904282614>
+[21/Feb/2017:00:57:17 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab906de4aa1>
+[21/Feb/2017:00:57:17 +0000] ErrorException: syntax error, unexpected '`', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab906de4aa1>
+[21/Feb/2017:01:00:54 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab9146546cc>
+[21/Feb/2017:01:00:54 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(163) : eval()'d code:5) <51b710558ab9146546cc>
+[21/Feb/2017:01:03:26 +0000] ErrorException: Undefined variable: PRIMARY (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php:167) <51b710558ab91de78125>
+[21/Feb/2017:01:03:26 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab91de78125>
+[21/Feb/2017:01:03:26 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(171) : eval()'d code:1) <51b710558ab91de78125>
+[21/Feb/2017:01:04:42 +0000] ErrorException: Undefined variable: PRIMARY (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php:167) <51b710558ab922ac9a83>
+[21/Feb/2017:01:04:42 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab922ac9a83>
+[21/Feb/2017:01:04:42 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab922ac9a83>
+[21/Feb/2017:01:05:02 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab923eb66c4>
+[21/Feb/2017:01:05:02 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab923eb66c4>
+[21/Feb/2017:01:05:16 +0000] ErrorException: Undefined variable: PRIMARY (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php:167) <51b710558ab924c9f988>
+[21/Feb/2017:01:05:16 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab924c9f988>
+[21/Feb/2017:01:05:16 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab924c9f988>
+[21/Feb/2017:01:06:30 +0000] ErrorException: Undefined variable: PRIMARY (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php:167) <51b710558ab9296c5f68>
+[21/Feb/2017:01:06:35 +0000] ErrorException: Undefined variable: PRIMARY (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php:167) <51b710558ab929bd00c4>
+[21/Feb/2017:01:07:06 +0000] ErrorException: Undefined variable: PRIMARY (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php:167) <51b710558ab92baeb4fb>
+[21/Feb/2017:01:07:06 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab92baeb4fb>
+[21/Feb/2017:01:07:06 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab92baeb4fb>
+[21/Feb/2017:01:07:13 +0000] ErrorException: Undefined variable: PRIMARY (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php:167) <51b710558ab92c153cb2>
+[21/Feb/2017:01:07:13 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab92c153cb2>
+[21/Feb/2017:01:07:13 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab92c153cb2>
+[21/Feb/2017:01:07:29 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab92d1ad23f>
+[21/Feb/2017:01:07:29 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab92d1ad23f>
+[21/Feb/2017:01:07:52 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab92e827518>
+[21/Feb/2017:01:07:52 +0000] ErrorException: syntax error, unexpected '<' (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab92e827518>
+[21/Feb/2017:01:07:57 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab92ed93dd8>
+[21/Feb/2017:01:07:57 +0000] ErrorException: syntax error, unexpected '<' (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab92ed93dd8>
+[21/Feb/2017:01:08:10 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab92faeb203>
+[21/Feb/2017:01:08:10 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab92faeb203>
+[21/Feb/2017:01:08:41 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab931997f7c>
+[21/Feb/2017:01:08:41 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab931997f7c>
+[21/Feb/2017:01:08:56 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558ab9328eb143>
+[21/Feb/2017:01:09:11 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab93370ce36>
+[21/Feb/2017:01:09:11 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab93370ce36>
+[21/Feb/2017:01:09:20 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab9340af017>
+[21/Feb/2017:01:09:20 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(170) : eval()'d code:1) <51b710558ab9340af017>
+[21/Feb/2017:01:16:11 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab94dbca540>
+[21/Feb/2017:01:16:11 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab94dbca540>
+[21/Feb/2017:01:17:45 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558ab9539949e5>
+[21/Feb/2017:01:20:53 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab95f57e575>
+[21/Feb/2017:01:20:53 +0000] ErrorException: syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:12) <51b710558ab95f57e575>
+[21/Feb/2017:01:24:13 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab96bd6298f>
+[21/Feb/2017:01:24:13 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab96bd6298f>
+[21/Feb/2017:01:24:23 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab96c7efa71>
+[21/Feb/2017:01:24:23 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab96c7efa71>
+[21/Feb/2017:01:24:35 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab96d3e169d>
+[21/Feb/2017:01:24:35 +0000] ErrorException: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab96d3e169d>
+[21/Feb/2017:01:24:44 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab96dc0009f>
+[21/Feb/2017:01:24:44 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab96dc0009f>
+[21/Feb/2017:01:25:34 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab970e0d97e>
+[21/Feb/2017:01:25:34 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(163) : eval()'d code:5) <51b710558ab970e0d97e>
+[21/Feb/2017:01:28:25 +0000] ErrorException: Undefined variable: PRIMARY (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php:164) <51b710558ab97b972e17>
+[21/Feb/2017:01:28:25 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab97b972e17>
+[21/Feb/2017:01:28:25 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(165) : eval()'d code:1) <51b710558ab97b972e17>
+[21/Feb/2017:01:28:43 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab97cb40898>
+[21/Feb/2017:01:28:43 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(165) : eval()'d code:1) <51b710558ab97cb40898>
+[21/Feb/2017:01:28:50 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab97d2a3afb>
+[21/Feb/2017:01:28:50 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(165) : eval()'d code:1) <51b710558ab97d2a3afb>
+[21/Feb/2017:01:29:46 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab980acfe86>
+[21/Feb/2017:01:29:46 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(165) : eval()'d code:1) <51b710558ab980acfe86>
+[21/Feb/2017:01:29:53 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab98112c80a>
+[21/Feb/2017:01:29:53 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(165) : eval()'d code:1) <51b710558ab98112c80a>
+[21/Feb/2017:01:29:58 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab98161e856>
+[21/Feb/2017:01:29:58 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(165) : eval()'d code:1) <51b710558ab98161e856>
+[21/Feb/2017:01:30:06 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558ab981e13a11>
+[21/Feb/2017:01:30:37 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab983da9484>
+[21/Feb/2017:01:30:37 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(165) : eval()'d code:1) <51b710558ab983da9484>
+[21/Feb/2017:01:32:24 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab98a870e76>
+[21/Feb/2017:01:32:24 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(165) : eval()'d code:1) <51b710558ab98a870e76>
+[21/Feb/2017:01:32:28 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab98ac81d4e>
+[21/Feb/2017:01:32:28 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(165) : eval()'d code:1) <51b710558ab98ac81d4e>
+[21/Feb/2017:01:35:07 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab994b2e4e5>
+[21/Feb/2017:01:35:30 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab99627fe30>
+[21/Feb/2017:01:35:48 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab99743f328>
+[21/Feb/2017:01:35:48 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab99743f328>
+[21/Feb/2017:01:45:50 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab9bce1cf68>
+[21/Feb/2017:01:45:50 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab9bce1cf68>
+[21/Feb/2017:01:48:53 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab9c8569575>
+[21/Feb/2017:01:49:55 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab9cc3ce8cb>
+[21/Feb/2017:01:51:04 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558ab9d08886c1>
+[21/Feb/2017:01:51:04 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558ab9d08886c1>
+[21/Feb/2017:02:04:24 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558aba028e73e3>
+[21/Feb/2017:02:04:24 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(162) : eval()'d code:5) <51b710558aba028e73e3>
+[21/Feb/2017:02:04:50 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558aba042b91e5>
+[21/Feb/2017:02:05:52 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558aba080bfc5b>
+[21/Feb/2017:02:05:52 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(166) : eval()'d code:5) <51b710558aba080bfc5b>
+[21/Feb/2017:02:14:02 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558aba26ac04b6>
+[21/Feb/2017:02:14:16 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558aba2788956a>
+[21/Feb/2017:02:17:47 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba34b35e4d>
+[21/Feb/2017:02:17:47 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba34b35e4d>
+[21/Feb/2017:02:29:21 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba600e130d>
+[21/Feb/2017:02:29:21 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba600e130d>
+[21/Feb/2017:02:32:08 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba6a8526b0>
+[21/Feb/2017:02:32:08 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba6a8526b0>
+[21/Feb/2017:02:33:18 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba6ee249ef>
+[21/Feb/2017:02:33:18 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba6ee249ef>
+[21/Feb/2017:02:33:39 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba703b6118>
+[21/Feb/2017:02:33:39 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba703b6118>
+[21/Feb/2017:02:34:01 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba7195ca3e>
+[21/Feb/2017:02:34:01 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba7195ca3e>
+[21/Feb/2017:02:34:07 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba71f93974>
+[21/Feb/2017:02:34:07 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba71f93974>
+[21/Feb/2017:02:34:15 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba72774813>
+[21/Feb/2017:02:34:15 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba72774813>
+[21/Feb/2017:02:35:34 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558aba776211a0>
+[21/Feb/2017:02:36:05 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba795ab871>
+[21/Feb/2017:02:36:05 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba795ab871>
+[21/Feb/2017:02:37:24 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba7e40b1f9>
+[21/Feb/2017:02:37:24 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba7e40b1f9>
+[21/Feb/2017:02:37:55 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba802f2c51>
+[21/Feb/2017:02:37:55 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba802f2c51>
+[21/Feb/2017:02:38:29 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558aba8251a900>
+[21/Feb/2017:02:39:12 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba850a9490>
+[21/Feb/2017:02:39:12 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba850a9490>
+[21/Feb/2017:02:40:56 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba8b7edc78>
+[21/Feb/2017:02:40:56 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba8b7edc78>
+[21/Feb/2017:02:41:33 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558aba8dd25d30>
+[21/Feb/2017:02:41:56 +0000] MdogoForbiddenException: csrf token missing or invalid (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Dispatcher.php:131) <f22ef8d58aba8f470297>
+[21/Feb/2017:02:41:56 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba8f470297>
+[21/Feb/2017:02:42:21 +0000] PDOException: SQLSTATE[HY000]: General error: 1 table posts has no column named PRIMARY (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58aba90d99201>
+[21/Feb/2017:02:42:21 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aba90d99201>
+[21/Feb/2017:02:46:34 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58abaa0a97b71>
+[21/Feb/2017:02:46:34 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58abaa0a97b71>
+[22/Feb/2017:00:12:31 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558acd76f5b138>
+[22/Feb/2017:00:13:59 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acd7c75dfbd>
+[22/Feb/2017:00:13:59 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acd7c75dfbd>
+[22/Feb/2017:00:18:03 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acd8bb2e371>
+[22/Feb/2017:00:20:06 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acd936614c8>
+[22/Feb/2017:00:20:25 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:89) <f22ef8d58acd949a692f>
+[22/Feb/2017:00:20:25 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acd949a692f>
+[22/Feb/2017:00:21:00 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acd96cd7c0f>
+[22/Feb/2017:00:21:39 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acd99310436>
+[22/Feb/2017:00:31:02 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acdbc6ad9c8>
+[22/Feb/2017:00:31:02 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acdbc6ad9c8>
+[22/Feb/2017:00:32:15 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acdc0f49781>
+[22/Feb/2017:00:32:15 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acdc0f49781>
+[22/Feb/2017:00:39:11 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:89) <f22ef8d58acddaf739f4>
+[22/Feb/2017:00:39:11 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acddaf739f4>
+[22/Feb/2017:00:40:52 +0000] ErrorException: Array to string conversion (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Logger.php:64) <f22ef8d58acde143d360>
+[22/Feb/2017:00:40:52 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:89) <f22ef8d58acde143d360>
+[22/Feb/2017:00:40:52 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acde143d360>
+[22/Feb/2017:00:42:00 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acde58be56f>
+[22/Feb/2017:00:42:00 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acde58be56f>
+[22/Feb/2017:00:43:10 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acde9e134f3>
+[22/Feb/2017:00:43:10 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acde9e134f3>
+[22/Feb/2017:00:43:35 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acdeb7abfef>
+[22/Feb/2017:00:43:35 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acdeb7abfef>
+[22/Feb/2017:00:58:50 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace24a88136>
+[22/Feb/2017:00:58:50 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace24a88136>
+[22/Feb/2017:00:59:44 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace28094448>
+[22/Feb/2017:00:59:44 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace28094448>
+[22/Feb/2017:01:04:10 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace38a33dde>
+[22/Feb/2017:01:04:10 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace38a33dde>
+[22/Feb/2017:01:08:17 +0000] ErrorException: Array to string conversion (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Logger.php:64) <f22ef8d58ace481b6b0e>
+[22/Feb/2017:01:08:17 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace481b6950>
+[22/Feb/2017:01:08:17 +0000] ErrorException: Array to string conversion (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Logger.php:64) <f22ef8d58ace481b6950>
+[22/Feb/2017:01:08:31 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace48ef3cd9>
+[22/Feb/2017:01:08:31 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace48ef3cd9>
+[22/Feb/2017:01:09:22 +0000] ErrorException: Array to string conversion (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Logger.php:64) <f22ef8d58ace4c2d1169>
+[22/Feb/2017:01:09:22 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace4c2d0fc2>
+[22/Feb/2017:01:09:22 +0000] ErrorException: Array to string conversion (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Logger.php:64) <f22ef8d58ace4c2d0fc2>
+[22/Feb/2017:01:09:41 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace4d56418f>
+[22/Feb/2017:01:09:41 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace4d56418f>
+[22/Feb/2017:01:11:41 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace54d80b2d>
+[22/Feb/2017:01:11:41 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace54d80b2d>
+[22/Feb/2017:01:14:09 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace5e17058f>
+[22/Feb/2017:01:14:09 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace5e17058f>
+[22/Feb/2017:01:14:32 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace5f8211ca>
+[22/Feb/2017:01:14:32 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace5f8211ca>
+[22/Feb/2017:01:20:25 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace759bb807>
+[22/Feb/2017:01:20:25 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace759bb807>
+[22/Feb/2017:01:21:04 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace7800eb44>
+[22/Feb/2017:01:21:04 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace7800eb44>
+[22/Feb/2017:01:26:53 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58ace8dd35b89>
+[22/Feb/2017:01:26:53 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ace8dd35b89>
+[22/Feb/2017:01:40:18 +0000] ErrorException: Array to string conversion (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Request.php:293) <f22ef8d58acec027a0c5>
+[22/Feb/2017:01:40:18 +0000] ErrorException: Array to string conversion (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Request.php:293) <f22ef8d58acec027a0c5>
+[22/Feb/2017:01:40:18 +0000] ErrorException: Array to string conversion (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Request.php:293) <f22ef8d58acec027a0c5>
+[22/Feb/2017:01:40:18 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acec027a4b0>
+[22/Feb/2017:01:40:18 +0000] ErrorException: Array to string conversion (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Request.php:293) <f22ef8d58acec027a4b0>
+[22/Feb/2017:01:40:33 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acec1195c7c>
+[22/Feb/2017:01:40:33 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acec1195c7c>
+[22/Feb/2017:01:42:04 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acec6c6b59e>
+[22/Feb/2017:01:42:04 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acec6c6b59e>
+[22/Feb/2017:01:42:33 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acec89d71d3>
+[22/Feb/2017:01:42:33 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acec89d71d3>
+[22/Feb/2017:01:43:13 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acecb16799c>
+[22/Feb/2017:01:43:13 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acecb16799c>
+[22/Feb/2017:01:43:40 +0000] ErrorException: Array to string conversion (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Request.php:57) <f22ef8d58aceccc676c0>
+[22/Feb/2017:01:43:40 +0000] ErrorException: Undefined variable: Array (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Request.php:57) <f22ef8d58aceccc676c0>
+[22/Feb/2017:01:43:40 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58aceccc6753f>
+[22/Feb/2017:01:43:40 +0000] ErrorException: Undefined variable: Array (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Request.php:57) <f22ef8d58aceccc6753f>
+[22/Feb/2017:01:44:12 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acecec9fe2d>
+[22/Feb/2017:01:44:12 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acecec9fe2d>
+[22/Feb/2017:01:44:33 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58aced016bf51>
+[22/Feb/2017:01:44:33 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aced016bf51>
+[22/Feb/2017:01:45:42 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58aced468d7a6>
+[22/Feb/2017:01:45:42 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aced468d7a6>
+[22/Feb/2017:01:46:58 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58aced926dacf>
+[22/Feb/2017:01:46:58 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aced926dacf>
+[22/Feb/2017:01:51:30 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58aceea2737a3>
+[22/Feb/2017:01:51:30 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aceea2737a3>
+[22/Feb/2017:01:52:07 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58aceec7dcaf5>
+[22/Feb/2017:01:52:07 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aceec7dcaf5>
+[22/Feb/2017:01:53:16 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acef0c3aa4b>
+[22/Feb/2017:01:53:16 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acef0c3aa4b>
+[22/Feb/2017:01:53:34 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acef1e56f7e>
+[22/Feb/2017:01:53:34 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acef1e56f7e>
+[22/Feb/2017:01:54:13 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acef450a8ac>
+[22/Feb/2017:01:54:13 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acef450a8ac>
+[22/Feb/2017:01:56:30 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acefce77c02>
+[22/Feb/2017:01:56:30 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acefce77c02>
+[22/Feb/2017:01:56:42 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acefda17e93>
+[22/Feb/2017:01:56:42 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acefda17e93>
+[22/Feb/2017:01:57:05 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58aceff172d96>
+[22/Feb/2017:01:57:05 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58aceff172d96>
+[22/Feb/2017:01:58:53 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acf05d789cb>
+[22/Feb/2017:01:58:53 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf05d789cb>
+[22/Feb/2017:01:59:48 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acf09460246>
+[22/Feb/2017:01:59:48 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf09460246>
+[22/Feb/2017:02:00:14 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acf0ae54b2b>
+[22/Feb/2017:02:00:14 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf0ae54b2b>
+[22/Feb/2017:02:01:23 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acf0f34877f>
+[22/Feb/2017:02:01:23 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf0f34877f>
+[22/Feb/2017:02:03:45 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:89) <f22ef8d58acf18191ffc>
+[22/Feb/2017:02:03:45 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf18191ffc>
+[22/Feb/2017:02:06:17 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:89) <f22ef8d58acf21998944>
+[22/Feb/2017:02:06:17 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf21998944>
+[22/Feb/2017:02:06:47 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:89) <f22ef8d58acf237656bf>
+[22/Feb/2017:02:06:47 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf237656bf>
+[22/Feb/2017:02:07:40 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:89) <f22ef8d58acf26c7d986>
+[22/Feb/2017:02:07:40 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf26c7d986>
+[22/Feb/2017:02:09:12 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:89) <f22ef8d58acf2c875f52>
+[22/Feb/2017:02:09:12 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf2c875f52>
+[22/Feb/2017:02:11:41 +0000] ErrorException: Call to undefined function json_enconde() (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:316) <f22ef8d58acf35d9acee>
+[22/Feb/2017:02:12:12 +0000] ErrorException: Call to undefined function json_enconde() (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:316) <f22ef8d58acf37ca4e95>
+[22/Feb/2017:02:12:15 +0000] ErrorException: Call to undefined function json_enconde() (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:316) <f22ef8d58acf37fb3123>
+[22/Feb/2017:02:12:34 +0000] ErrorException: Call to undefined function json_enconde() (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:313) <f22ef8d58acf392722d6>
+[22/Feb/2017:02:13:20 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acf3c068e57>
+[22/Feb/2017:02:13:20 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf3c068e57>
+[22/Feb/2017:02:13:39 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acf3d32972f>
+[22/Feb/2017:02:13:39 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf3d32972f>
+[22/Feb/2017:02:14:04 +0000] PDOException: SQLSTATE[HY000]: General error: 1 near "`posts`": syntax error (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:88) <f22ef8d58acf3ecb5176>
+[22/Feb/2017:02:14:04 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58acf3ecb5176>
+[22/Feb/2017:02:14:34 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <f22ef8d58acf40a10bc5>
+[22/Feb/2017:02:14:34 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(163) : eval()'d code:5) <f22ef8d58acf40a10bc5>
+[22/Feb/2017:02:35:43 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558acf8ff3332b>
+[22/Feb/2017:02:35:43 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(163) : eval()'d code:5) <51b710558acf8ff3332b>
