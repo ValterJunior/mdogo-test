@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Introduction
 
 Mdogo means 'small, little; not large' in Swahili - and that's what it is:
@@ -72,3 +73,7 @@ bin/cron, respectively.
 - @dmbch
 - @LennyLinux
 - @pshh78
+=======
+# mdogo-test
+Studying the Mdogo framework!
+>>>>>>> 338685149a4ea297674c56b25924282db7f62245
