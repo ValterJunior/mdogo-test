@@ -1,7 +1,3 @@
-aqui
-aqui
-aqui
-1
-1
-2
-{"`uid`":"INTEGER","`title`":"TEXT","`text`":"TEXT"}
+{"text\/cache-manifest":"appcache","application\/atom+xml":"atom","video\/x-msvideo":"avi","text\/css":"css","text\/csv":"csv","application\/vnd.ms-fontobject":"eot","video\/x-flv":"flv","image\/gif":"gif","application\/x-gzip":"gz","text\/html":"html","image\/x-icon":"ico","image\/jpeg":"jpeg","application\/javascript":"js","application\/json":"json","video\/quicktime":"mov","audio\/mpeg":"mp3","video\/mp4":"mp4","video\/mpeg":"mpeg","audio\/ogg":"ogg","application\/x-font-otf":"otf","application\/pdf":"pdf","application\/vnd.php.serialized":"phpd","image\/png":"png","application\/rss+xml":"rss","image\/svg+xml":"svg","application\/x-shockwave-flash":"swf","application\/x-font-ttf":"ttf","text\/plain":"txt","application\/x-www-form-urlencoded":"url","application\/x-font-woff":"woff","application\/xml":"xml","application\/zip":"zip"}
+"application\/octet-stream"
+"application\/octet-stream"

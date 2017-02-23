@@ -329,3 +329,23 @@
 [22/Feb/2017:02:14:34 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(163) : eval()'d code:5) <f22ef8d58acf40a10bc5>
 [22/Feb/2017:02:35:43 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558acf8ff3332b>
 [22/Feb/2017:02:35:43 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(163) : eval()'d code:5) <51b710558acf8ff3332b>
+[22/Feb/2017:03:02:53 +0000] MdogoException: model not found: Mdogo_Model_Posts (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Model.php:391) <51b710558acff5dca9ba>
+[22/Feb/2017:03:02:53 +0000] ErrorException: syntax error, unexpected '$', expecting variable (T_VARIABLE) (MDOGO_ROOT/lib/gaiagroup/mdogo/src/loader.php(163) : eval()'d code:5) <51b710558acff5dca9ba>
+[23/Feb/2017:00:49:50 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/REST.php:233) <51b710558ae31ae4ccfa>
+[23/Feb/2017:00:50:23 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:357) <f22ef8d58ae31cfafffd>
+[23/Feb/2017:00:50:23 +0000] ErrorException: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. (Unknown:0) <f22ef8d58ae31cfafffd>
+[23/Feb/2017:00:51:00 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:357) <51b710558ae31f456374>
+[23/Feb/2017:00:55:02 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:357) <51b710558ae32e691832>
+[23/Feb/2017:01:00:40 +0000] ErrorException: class_implements(): Class Mdogo_Response does not exist and could not be loaded (MDOGO_ROOT/lib/gaiagroup/mdogo/src/container.php:127) <51b710558ae3438825b1>
+[23/Feb/2017:01:00:40 +0000] MdogoException: entity must implement MdogoResponseInterface: response (MDOGO_ROOT/lib/gaiagroup/mdogo/src/container.php:128) <51b710558ae3438825b1>
+[23/Feb/2017:01:00:40 +0000] ErrorException: in_array() expects parameter 2 to be array, boolean given (MDOGO_ROOT/lib/gaiagroup/mdogo/src/container.php:127) <51b710558ae3438825b1>
+[23/Feb/2017:01:00:56 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:358) <51b710558ae34488d161>
+[23/Feb/2017:01:05:58 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/HTML.php:42) <51b710558ae3576d779d>
+[23/Feb/2017:01:06:12 +0000] MdogoNotFoundException:  (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Controller/HTML.php:42) <51b710558ae3584aafda>
+[23/Feb/2017:01:06:33 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:357) <51b710558ae3599bab0d>
+[23/Feb/2017:01:08:38 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:359) <51b710558ae3616265e3>
+[23/Feb/2017:01:10:25 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:359) <51b710558ae3681edd96>
+[23/Feb/2017:01:11:08 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:359) <51b710558ae36acf27f8>
+[23/Feb/2017:01:13:54 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:359) <51b710558ae375245804>
+[23/Feb/2017:01:14:56 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:359) <51b710558ae3790c7d10>
+[23/Feb/2017:15:56:09 +0000] MdogoNotAcceptableException: unsupported output encoding (MDOGO_ROOT/lib/gaiagroup/mdogo/src/Mdogo/Response.php:359) <51b710558af0619ca2fc>

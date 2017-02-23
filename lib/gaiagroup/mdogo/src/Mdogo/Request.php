@@ -251,8 +251,7 @@ class Mdogo_Request extends MdogoArray implements MdogoRequestInterface
   {
       //Mdogo::get('logger')->log(json_encode($this->get('server')));
     if (empty($type)) {
-      //$format = $this->get('server', 'content_type');
-      $format = $this->get('server', 'http_content_type');
+      $format = $this->get('server', 'content_type');
       if (empty($format)) {
         $format = '*/*';
       }

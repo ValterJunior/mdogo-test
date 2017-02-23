@@ -343,6 +343,8 @@ class Mdogo_Response extends MdogoArray implements MdogoResponseInterface, Seria
         $formats = array('*/*');
       }
       $types = array_flip($this->environment->get('mime'));
+      Mdogo::get('logger')->log( json_encode( $this->data['mime'] ) );
+
       if (array_key_exists($this->data['mime'], $types)) {
         $types += array('*/*' => $types[$this->data['mime']]);
       }
